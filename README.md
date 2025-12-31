@@ -1,7 +1,7 @@
 # Alhousseynou Ndiaye
 
 **AI & Data Engineer — LLM systems, automation, data products**  
-Île-de-France · Open to alternance (immediate)
+Île-de-France · Open to apprenticeship (immediate)
 
 ---
 
