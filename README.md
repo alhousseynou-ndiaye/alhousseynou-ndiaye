@@ -72,7 +72,7 @@ Power BI (DAX, M) · Power Query · Power Automate
 ## Experience
 
 **Software & Automation Engineer (Apprenticeship)** — KazIA / KazDocs  
-*2025 – present*  
+*09/2025 – present*  
 - Designed LLM-driven document extraction pipelines  
 - Improved output reliability via typed validation & prompt engineering  
 - Reduced inference costs through model & prompt optimization  
@@ -87,6 +87,5 @@ Power BI (DAX, M) · Power Query · Power Automate
 
 ## Contact
 
-📧 alhousseynoundiaye8@gmail.com  
-🔗 LinkedIn: Alhousseynou Ndiaye  
+📧 alhousseynoundiaye8@gmail.com   
 📍 Île-de-France
