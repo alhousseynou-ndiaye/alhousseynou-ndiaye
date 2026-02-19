@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=34&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=900&lines=Alhousseynou+Ndiaye;AI+%26+Data+Engineer;LLM+Systems+%7C+Automation+%7C+SaaS;Building+Tech+That+Generates+Value" />
 </p>
 
-<h3 align="center">⚡ AI Engineer • Product Builder • Automation Systems</h3>
+<h3 align="center">⚡ AI & Software Engineer • Building Scalable AI Products & Automation</h3>
 
 <p align="center">
   <a href="mailto:alhousseynoundiaye8@gmail.com">
