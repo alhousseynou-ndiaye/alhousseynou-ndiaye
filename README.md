@@ -1,28 +1,27 @@
-# Alhousseynou Ndiaye
+<!-- ================= ELITE README ================= -->
 
-**Student - MSc Computer Science & Data Science at ESILV**  
-Île-de-France · Open to apprenticeship (immediate)
+<!-- HERO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=34&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=900&lines=Alhousseynou+Ndiaye;AI+%26+Data+Engineer;LLM+Systems+%7C+Automation+%7C+SaaS;Building+Tech+That+Generates+Value" />
+</p>
+
+<h3 align="center">⚡ AI Engineer • Product Builder • Automation Systems</h3>
+
+<p align="center">
+  <a href="mailto:alhousseynoundiaye8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alhousseynou-ndiaye-87b430319">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=alhousseynou-ndiaye&style=for-the-badge&color=0A66C2"/>
+</p>
 
 ---
 
+## 🧠 Positioning
 
-## Technical Stack
-
-**Languages**  
-Python · SQL · TypeScript · JavaScript · R · Java · SAS
-
-**LLM / AI**  
-Gemini · Mistral · Llama · OpenAI API · RAG · FAISS · Prompt Engineering · JSON Schema
-
-**Backend / Data**  
-FastAPI · Node.js · Spring Boot · Pandas · NumPy · Scikit-learn
-
-**BI / Automation**  
-Power BI (DAX, M) · Power Query · Power Automate
-
-
-
-## Contact
-
-📧 alhousseynoundiaye8@gmail.com   
-📍 Île-de-France
+```diff
++ I build AI systems that ship (not just demos)
++ I design automation that saves time & generates money
++ I think product, scalability, and real-world constraints
