@@ -137,7 +137,7 @@
 
 <p align="center">
   <a href="mailto:alh.ndiaye27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-alhousseynoundiaye8@gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-alh.ndiaye27@gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/alhousseynou-ndiaye-87b430319">
     <img src="https://img.shields.io/badge/LinkedIn-Alhousseynou%20Ndiaye-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
