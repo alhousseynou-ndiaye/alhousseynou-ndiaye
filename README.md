@@ -1,150 +1,91 @@
-<!-- ================= ELITE README ================= -->
+<div align="center">
 
-<!-- HERO -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=34&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=900&lines=Alhousseynou+Ndiaye;AI+%26+Data+Engineer;LLM+Systems+%7C+Automation+%7C+SaaS;Building+Tech+That+Generates+Value" />
-</p>
+# Alhousseynou Ndiaye
+### AI & Data Engineer — LLM Systems · Automation · SaaS
 
-<h3 align="center">⚡ AI & Software Engineer • Building Scalable AI Products & Automation</h3>
+[![Email](https://img.shields.io/badge/alh.ndiaye27@gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:alh.ndiaye27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alhousseynou%20Ndiaye-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alhousseynou-ndiaye-87b430319)
+[![Location](https://img.shields.io/badge/Île--de--France%2C%20France-555?style=flat-square&logo=googlemaps&logoColor=white)]()
 
-<p align="center">
-  <a href="mailto:alhousseynoundiaye8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alhousseynou-ndiaye-87b430319">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=alhousseynou-ndiaye&style=for-the-badge&color=0A66C2"/>
-</p>
+</div>
 
 ---
 
-## 🧠 Positioning
+## À propos
 
-<table>
-<tr><td>✅ I build AI systems that ship (not just demos)</td></tr>
-<tr><td>✅ I design automation that saves time & generates money</td></tr>
-<tr><td>✅ I think product, scalability, and real-world constraints</td></tr>
-</table>
+Ingénieur logiciel spécialisé en systèmes d'IA et automatisation, en formation MSc Computer Science & Data Science à l'ESILV.
 
-> 🎓 MSc Computer Science & Data Science — ESILV &nbsp;|&nbsp; 📍 Île-de-France &nbsp;|&nbsp; ⚡ Open to Apprenticeship / Freelance / AI Projects
+Je conçois des architectures backend robustes, des pipelines LLM orientés production, et des produits SaaS complets — de la couche données jusqu'à l'interface utilisateur. Mon approche est centrée sur la valeur réelle : chaque système que je construis doit être mesurable, scalable et maintenable.
+
+**Disponible** pour une alternance, des missions freelance ou des collaborations sur des projets IA ambitieux.
 
 ---
 
-## 🚀 What I'm Building
+## Projets en cours
 
-### 🏢 MonCabinetData (SaaS)
-> Data consulting platform — clients, billing, documents
+### MonCabinetData
+> Plateforme SaaS de consulting data — gestion clients, facturation, documents
 
-- 📊 Client dashboards & workflow automation
-- 🔒 Secure document pipeline
-- 💳 Stripe billing integration
-- 🏗 Production-ready architecture
+Tableau de bord client avec workflows automatisés, pipeline documentaire sécurisé et intégration de paiement Stripe. Architecture production-ready conçue pour passer à l'échelle.
 
-**Stack:** `Next.js` • `TypeScript` • `Prisma` • `PostgreSQL`
+`Next.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `Stripe`
 
 ---
 
-### 🤖 AgentFlow AI (Core Project)
-> AI agents orchestration platform
+### AgentFlow AI
+> Plateforme d'orchestration d'agents IA
 
-- 🔁 Multi-agent workflows
-- ⚙️ Task automation pipelines
-- 📦 Queue + workers architecture
-- 📈 Designed for scalability
+Système multi-agents avec pipelines d'automatisation de tâches, architecture queue/workers, et monitoring temps réel. Conçu pour des workflows complexes en environnement distribué.
 
-**Stack:** `FastAPI` • `Redis` • `Docker` • `PostgreSQL`
+`FastAPI` · `Redis` · `Docker` · `PostgreSQL`
 
 ---
 
-### 📱 SantéBot Sénégal
-> AI assistant for low-connectivity environments
+### SantéBot Sénégal
+> Assistant santé IA pour environnements à faible connectivité
 
-- 💬 SMS / WhatsApp interaction
-- 🌍 Real-world usability focus
-- 🇸🇳 Africa-first product thinking
+Chatbot médical accessible via SMS et WhatsApp, pensé pour les zones rurales d'Afrique de l'Ouest. Produit centré sur l'impact réel et la contrainte d'infrastructure.
 
----
-
-## 🏗 System Design Mindset
-
-<table>
-<tr><td><code>User → API → Business Logic → AI Layer → Database → Response</code></td></tr>
-<tr><td>✅ Clean architecture</td></tr>
-<tr><td>✅ Scalable services</td></tr>
-<tr><td>✅ Observability-ready</td></tr>
-<tr><td>✅ API-first design</td></tr>
-</table>
+`Python` · `Twilio` · `LLM fine-tuning` · `Africa-first design`
 
 ---
 
-## ⚡ Tech Stack
+## Stack technique
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,postgres,fastapi,nodejs,react,docker,kubernetes,terraform,git&perline=12" />
-</p>
+**Langages**
+`Python` · `TypeScript` · `JavaScript` · `Java`
 
----
+**Backend & Infrastructure**
+`FastAPI` · `Node.js` · `PostgreSQL` · `Redis` · `Docker` · `Kubernetes` · `Terraform`
 
-## 🧠 AI / LLM Stack
+**Frontend**
+`React` · `Next.js`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mistral-FF7A00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLaMA-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-16A34A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-</p>
+**IA / LLM**
+`OpenAI API` · `Gemini` · `Mistral` · `LLaMA` · `LangChain` · `RAG` · `FAISS` · `Vector Databases`
 
 ---
 
-## 📊 GitHub Analytics
+## Approche système
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=alhousseynou-ndiaye&theme=tokyonight&hide_border=true&width=600"/>
-</p>
+```
+Request → API Gateway → Business Logic → AI Layer → Data Store → Response
+```
 
----
-
-## 🎯 Current Focus
-
-<table>
-<tr><td>🚀 Shipping AI SaaS products</td></tr>
-<tr><td>⚙️ Building automation pipelines</td></tr>
-<tr><td>📈 Scaling backend systems</td></tr>
-<tr><td>💰 Creating revenue-driven tech</td></tr>
-</table>
+Chaque projet est pensé avec : architecture claire, séparation des responsabilités, observabilité intégrée, et design API-first.
 
 ---
 
-## 🧠 Philosophy
+## Formation
 
-> *"Most people write code. I build systems that create leverage."*
-
----
-
-## ⚡ Building in Public
-
-- 🚀 Sharing progress on AI projects
-- 🧠 Learning system design & scaling
-- 💰 Exploring SaaS & monetization
+**MSc Computer Science & Data Science** — ESILV, Île-de-France  
+Spécialisation : systèmes distribués, machine learning, ingénierie des données
 
 ---
 
-## 📬 Contact
+## Contact
 
-<p align="center">
-  <a href="mailto:alh.ndiaye27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-alh.ndiaye27@gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alhousseynou-ndiaye-87b430319">
-    <img src="https://img.shields.io/badge/LinkedIn-Alhousseynou%20Ndiaye-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+Je réponds à toutes les opportunités sérieuses — alternance, freelance, collaboration.
 
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=140&section=footer"/>
-</p>
+📧 [alh.ndiaye27@gmail.com](mailto:alh.ndiaye27@gmail.com)  
+💼 [linkedin.com/in/alhousseynou-ndiaye-87b430319](https://www.linkedin.com/in/alhousseynou-ndiaye-87b430319)
