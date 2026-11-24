@@ -85,7 +85,7 @@ My long-term focus is end-to-end engineering: from data ingestion and model expe
 
 I enjoy discussing **data platforms, applied AI, product engineering and real-world technical problems**.
 
-**[Email me](mailto:cirendiaye409@gmail.com)** &nbsp;·&nbsp; **[Explore my repositories](https://github.com/alhousseynou-ndiaye?tab=repositories)**
+**[Email me](mailto:alh.ndiaye27@gmail.com)** &nbsp;·&nbsp; **[Explore my repositories](https://github.com/alhousseynou-ndiaye?tab=repositories)**
 
 ---
 
